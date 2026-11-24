@@ -1,5 +1,7 @@
 # M&A Deal Protection and Transaction Completion
 
+[Read the Full Research Paper (PDF)](Research_Paper.pdf)
+
 ## About the Project
 
 As a student interested in corporate law and finance, I wanted to better understand how the terms negotiated in merger agreements relate to whether an acquisition is ultimately completed.
